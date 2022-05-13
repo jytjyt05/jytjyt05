@@ -3,7 +3,7 @@
 
 - Currently at **Boston College**
 - Majored in **Computer Science** 
-- Minored in **Finance** and **Philosophy
+- Minored in **Finance** and **Philosophy**
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
