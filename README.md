@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuting Ji</h1>
 <h3 align="center">Programmer, Music Producer, Boxer</h3>
 
-- Currently at **Boston College**
-- Majored in **Computer Science** 
-- Minored in **Finance** and **Philosophy**
+- **Boston College** class of 2023
+- Major: **Computer Science** 
+- Minor: **Finance**, **Philosophy**
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
