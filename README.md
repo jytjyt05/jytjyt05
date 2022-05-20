@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuting Ji</h1>
-<h3 align="center">Programmer, Music Producer, Boxer</h3>
-
+<h3 align="center">Programmer on DA(Data Analytics) and ML(Machine Learning)</h3>
+<h3 align="center">Signed EDM(Electric Dance Music) Producer</h3>
+  
 - **Boston College** class of 2023
 - Major: **Computer Science** 
 - Minor: **Finance**, **Philosophy**
