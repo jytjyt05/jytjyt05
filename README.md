@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuting Ji</h1>
 <h3 align="center">Programmer on Data Analytics and Machine Learning</h3>
-<h3 align="center">Signed Music Producer</h3>
+<h3 align="center">Former Signed Music Producer and DJ</h3>
   
 - **Boston College** class of 2023
 - Major: **Computer Science** 
