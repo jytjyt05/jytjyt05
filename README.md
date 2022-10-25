@@ -3,8 +3,8 @@
 <h3 align="center">Former Signed Music Producer and DJ</h3>
   
 - **Boston College** class of 2023
-- Major: **Computer Science** 
-- Minor: **Finance**, **Philosophy**
+- Major: *Computer Science*
+- Minor: *Finance*, *Philosophy*
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
