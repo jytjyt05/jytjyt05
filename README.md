@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuting Ji🦉</h1>
 <h3 align="center">Data Scientist specializing in applied analytics and biomedical application of computer vision</h3>
 <h3 align="center">Former Music Producer and DJ</h3>
-  
-- **Boston College**, 2023
-- Major: *Computer Science*
-- Minor: *Finance* | *Philosophy*
+
+- **University of California, Los Angeles**
+  - *M.E. in Data Science*; Expected graduation in Sep 2024
+- **Boston College**
+  - *B.S. in Computer Science*; Conferred in May 2023
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
