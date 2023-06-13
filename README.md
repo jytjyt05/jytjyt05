@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuting Ji🦉</h1>
-<h3 align="center">Data Scientist specializing in applied big-data analytics and biomedical application of computer vision</h3>
+<h3 align="center">Data Scientist specializing in applied analytics and biomedical application of computer vision</h3>
 <h3 align="center">Former Music Producer and DJ</h3>
   
 - **Boston College**, 2023
