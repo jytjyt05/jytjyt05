@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuting Ji🦉</h1>
-<h3 align="center">Data Scientist</h3>
+<!-- <h3 align="center">Data Scientist</h3> -->
 <h3 align="center">Deep Learning Researcher</h3>
 <h3 align="center">Signed Music Producer and DJ</h3>
 
