@@ -4,9 +4,9 @@
 <h3 align="center">Signed Music Producer and DJ</h3>
 
 - **University of California, Los Angeles**
-  - *M.Eng in Data Science*; Expected graduation in late 2024
+  - *MEng in Data Science*
 - **Boston College**
-  - *B.S. in Computer Science*; Conferred in May 2023
+  - *BS in Computer Science*
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
