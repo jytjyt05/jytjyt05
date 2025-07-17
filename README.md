@@ -4,10 +4,10 @@
 <h3 align="center">Deep Learning Researcher</h3>
 <h3 align="center">Signed Music Producer and DJ</h3>
 
-- **University of California, Los Angeles**
+<!-- - **University of California, Los Angeles**
   - *MEng in Data Science*
 - **Boston College**
-  - *BS in Computer Science*
+  - *BS in Computer Science* -->
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
